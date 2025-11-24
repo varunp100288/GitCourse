@@ -1,1 +1,4 @@
-yahan pe restore --cached command use karunga
+yahan pe restore --staged command use karunga
+
+
+dekhte hain
