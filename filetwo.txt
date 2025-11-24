@@ -3,3 +3,6 @@ This is second file for git course
 
 agar file ki working direc me kuch change karna hai to git restore karna chahiye
 
+
+merge conflict check kanre ke liye
+code 101
