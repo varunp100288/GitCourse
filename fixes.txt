@@ -1,0 +1,1 @@
+fixed the text file for non fast farword 
